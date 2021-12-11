@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+1. Ball
+2. Bat
+3. Wicket
+   * Plastic
+   * Wood
+   * Metal
